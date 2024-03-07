@@ -1,0 +1,54 @@
+.heroDiv {
+  margin: auto;
+  max-width: 80%;
+  position: relative;
+}
+  
+.heroDiv img {
+  position: relative !important
+}
+
+.h1 {
+  font-size: 2rem;
+}
+
+.h3 {
+  color: rgba(209, 77, 77, 0.805);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0.7rem auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0px 1px 1px rgb(25, 26, 27), 0 0 1em rgb(238, 238, 245), 0 0 0.1em rgb(12, 11, 11);
+}
+
+.footer {
+  font-size: 0.7rem;;
+  margin-top: 2rem;
+}
+
+.navLink {
+display:inline-block;
+font-size: 1.4rem;
+font-weight: bold;
+margin: 1.2rem 2rem;
+display: flex;
+align-items: center;
+justify-content: center;
+color: green;
+text-decoration: none;
+text-shadow: 0px 1px 1px rgb(25, 26, 27), 0 0 1em rgb(238, 238, 245), 0 0 0.1em rgb(12, 11, 11);
+}
+
+.navLink:hover {
+  color: red;
+}
+
+.mainTitle {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+  text-shadow: 0px 1px 1px rgb(25, 26, 27), 0 0 1em rgb(238, 238, 245), 0 0 0.1em rgb(12, 11, 11);
+}
